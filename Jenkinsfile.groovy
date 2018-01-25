@@ -51,3 +51,4 @@ currentBuild.result = 'FAILED'
 throw err
 
 }
+}
